@@ -1,0 +1,26 @@
+# Arquivos gerados por editores e previews
+*.html
+README_files/
+
+# Python (Arquivos temporários e ambientes)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Jupyter Notebook e Quarto
+.ipynb_checkpoints/
+.quarto/
+*_files/
+*_cache/
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Bases de dados
+# Se quiser ignorar tudo que não for .csv na pasta de dados:
+# data/*
+# !data/*.csv
