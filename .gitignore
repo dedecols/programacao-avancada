@@ -15,6 +15,7 @@ env/
 .quarto/
 *_files/
 *_cache/
+*.html
 
 # Sistema Operacional
 .DS_Store
