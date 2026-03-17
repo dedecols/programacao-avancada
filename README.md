@@ -11,23 +11,6 @@ O curso pretende abordar três grandes tópicos: Programação Orientada à Obje
 
 ## Programação Orientada ao Objeto 
 Principal parte do curso. 
-Conceitos trabalhados até agora:
-
-* Classes
-* Objetos
-* Atributos
-* Métodos
-* Método construtor
-
-Relação entre os conceitos:
-
-- A diferença entre atributos e parâmetros é contextual?
-- Atributos de classes (sempre os mesmos para qualquer objeto da classe)
-- Atributos de classes mutáveis
-
-- Parâmetros dos métodos
-- Métodos das classes
-- A diferença entre função e método é contextual
 
 ## Introdução às Estruturas de Dados
 Não iniciado.
