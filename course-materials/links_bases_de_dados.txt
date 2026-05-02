@@ -1,0 +1,13 @@
+Algumas bases de dados CSV para testar o classificador Naive Bayes Multinomial
+==============================================================================
+. Diversas bases para análise de sentimentos em Inglês -> https://github.com/hadis-1/Sentiment-Analysis-Datasets
+
+. Análise de sentimentos, tweets covid 19 em Português -> https://raw.githubusercontent.com/MayaraMachado/tweets-sentiment-analysis/refs/heads/main/data/dataset_label_pos_neg.csv
+
+. Análise de sentimentos com neutro em Português -> https://github.com/gabriel-solon-padilha/analise_de_sentimento_tweets_NLP
+
+. Classificação de emoção em Português -> https://github.com/LucaswasTaken/Acessibilidade_Parte_1_Analise_de_Sentimentos 
+
+. HateBR 2.0 -> detecção de discurso de ódio em Português -> https://github.com/franciellevargas/HateBR
+
+. Detecção de fake news e textos satíricos em Português -> https://github.com/hugoabonizio/fake-news-multilabel
